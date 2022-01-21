@@ -1,3 +1,3 @@
 # SortingVisualizer
-The app visualizes sorting of lines of different height in ascending row.
+The app visualizes sorting of blocks of different height in ascending row.
 The algorithm is merge sort.
